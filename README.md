@@ -80,7 +80,7 @@ If you have any questions, suggestions, or want to collaborate, feel free to con
 
 I'm excited to hear your feedback and ideas! 🌟
 
-## Copyright©
+## Copyright ©️
 
 Copyright © 2025 Dorukhan Bekdur
 
