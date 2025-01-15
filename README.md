@@ -19,7 +19,7 @@ Quizzy is a fun and interactive quiz application that offers multiple categories
   <img src="Screenshots/ResultPage.png" alt="Result Screen" width="200"> 
 </div>
 
-## 🛠️ Technologies Used
+## Technologies Used 🛠️
 - **Flutter** for building the mobile app.
 - **Dart** programming language.
 - **Google Fonts** for styling.
