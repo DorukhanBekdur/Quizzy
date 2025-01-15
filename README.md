@@ -38,3 +38,12 @@ Follow these steps to run the app locally:
    ```bash
    flutter run
 
+## 📬 Contact
+
+If you have any questions, suggestions, or want to collaborate, feel free to contact me:
+
+- **Email**: [dorukhanbekdur@gmail.com](mailto:dorukhanbekdur@gmail.com)
+- **GitHub**: [https://github.com/DorukhanBekdur](https://github.com/DorukhanBekdur)
+- **LinkedIn**: [https://linkedin.com/in/dorukhanbekdur](https://linkedin.com/in/dorukhanbekdur)
+
+I'm excited to hear your feedback and ideas! 🌟
