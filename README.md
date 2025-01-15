@@ -25,6 +25,32 @@ Quizzy is a fun and interactive quiz application that offers multiple categories
 - **Google Fonts** for styling.
 - **Provider** for state management.
 
+## Project Structure 📁
+
+```graphql
+Quizzy/
+│
+├── android/
+├── ios/
+├── lib/
+│   ├── art_quiz_page.dart
+│   ├── history_quiz_page.dart
+│   ├── music_quiz_page.dart
+│   ├── science_quiz_page.dart
+│   ├── sport_quiz_page.dart
+│   ├── technology_quiz_page.dart
+│   ├── home_screen.dart
+│   ├── result_page.dart
+│   ├── quiz_data.dart
+│   └── main.dart
+├── test/
+│   └── quizzy_test.dart
+├── pubspec.yaml
+├── README.md
+└── LICENSE
+```
+
+
 ## Installation 🚀  
 Follow these steps to run the app locally:  
 
@@ -44,7 +70,7 @@ Follow these steps to run the app locally:
    ```bash
    flutter run
 
-## 📬 Contact
+## Contact 📬
 
 If you have any questions, suggestions, or want to collaborate, feel free to contact me:
 
