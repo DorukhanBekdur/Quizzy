@@ -79,3 +79,10 @@ If you have any questions, suggestions, or want to collaborate, feel free to con
 - **LinkedIn**: [https://linkedin.com/in/dorukhanbekdur](https://linkedin.com/in/dorukhanbekdur)
 
 I'm excited to hear your feedback and ideas! 🌟
+
+## Copyright©
+
+Copyright © 2025 Dorukhan Bekdur
+
+All rights reserved. This software and its associated documentation files (the "Software") shall not be used, copied, modified, merged, published, distributed, sublicensed, and/or sold, except with the explicit permission of the copyright holder.
+
