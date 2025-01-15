@@ -9,14 +9,15 @@ Quizzy is a fun and interactive quiz application that offers multiple categories
 - **Seamless Navigation**: Intuitive navigation for a smooth user experience.  
 
 ## Screenshots 📸  
-<img src="https://via.placeholder.com/200x150" alt="Home Screen" width="200">  
-_Home Screen with category icons and names_  
+<div>
+  <img src="Screenshots/Start Page .png" alt="Home Screen" width="200">  
 
-<img src="https://via.placeholder.com/200x150" alt="Quiz Screen" width="200">  
-_Question view with multiple choice options_  
+  <img src="Screenshots/Category Page.png" alt="Result Screen" width="200"> 
 
-<img src="https://via.placeholder.com/200x150" alt="Result Screen" width="200">  
-_Final score and performance feedback_  
+  <img src="Screenshots/Question Page.png" alt="Quiz Screen" width="200">  
+ 
+  <img src="Screenshots/ResultPage.png" alt="Result Screen" width="200"> 
+</div>
 
 ## Installation 🚀  
 Follow these steps to run the app locally:  
