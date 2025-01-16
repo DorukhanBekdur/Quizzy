@@ -16,8 +16,8 @@ class ResultPage extends StatelessWidget {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [
-              Color(0xFF89CFF0), // Soft pastel blue
-              Color(0xFFBFD8EB), // Soft pastel light blue
+              Color(0xFF89CFF0),
+              Color(0xFFBFD8EB), 
             ],
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
